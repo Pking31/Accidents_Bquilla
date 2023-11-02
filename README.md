@@ -1,4 +1,4 @@
-#Geocodificación y Limpieza de Datos de Accidentes en Barranquilla
+# Geocodificación y Limpieza de Datos de Accidentes en Barranquilla
 
 Este proyecto tiene como objetivo geocodificar direcciones de accidentes en Barranquilla, Colombia, y realizar una limpieza de datos para su análisis posterior. A continuación, se presenta un resumen de las etapas clave del proceso:
 
